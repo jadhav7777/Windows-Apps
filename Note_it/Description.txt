@@ -1,0 +1,17 @@
+Note_it is a lightweight text editor. 
+
+With an auto-paste facility, topmost view.
+ 
+Also provide quick launching of other app using one button.
+
+It also contains my_file and private_file for storing passwords.
+
+It contains a font style picker and color picker for both font and background color.
+
+It allows to open a pdf in topmost view, it also allows multiple tabs.
+
+Note_it is very helpful to copy selected contains from a pdf or from a website.
+
+It can paste the copied text automatically even the application is in minimize mode.
+
+Note_it is also useful to take notes while watching a video lecture.

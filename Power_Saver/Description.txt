@@ -1,0 +1,7 @@
+BatterySaver is a light application.
+
+Protect your laptop battery from overcharging.
+
+Use BatterySaver application and extend the life of your laptop battery.
+
+It will notify you when the battery is charged up to the ALERT MARK selected by you.
